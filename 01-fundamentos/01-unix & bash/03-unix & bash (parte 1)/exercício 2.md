@@ -24,7 +24,7 @@ less countries.txt
 less countries.txt
 
 # Para buscar por um termo basta digitar o que está abaixo
-# \Zambia
+# /Zambia
 ```
 
 ### 5. Buscar por `Brazil` em `countries.txt`.
