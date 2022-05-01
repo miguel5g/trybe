@@ -2,11 +2,12 @@
 
 ## Inputs e outputs no terminal
 
-Inputs são dados que o usuário digita no terminal.
+Inputs (entradas) são dados que os comandos recebem para serem processados.
+Outputs (saídas) são dados que os comandos produzem para serem exibidos.
 
 ## Sinal > (maior)
 
-Pega o input de um comando e repassa para um output.
+Pega o output de um comando e escreve em um arquivo.
 
 Exemplo:
 
@@ -16,7 +17,7 @@ echo "Hello World" > hello.txt
 
 ## Sinal >> (maior maior)
 
-Acrescenta o input de um comando ao output de um comando.
+Acrescenta o input de um comando ao final de um arquivo.
 
 Exemplo:
 
@@ -50,6 +51,8 @@ Saber informações sobre o usuário do sistema.
 
 ## Juntar outputs em um único input (|)
 
+O | (pipe) repassa o output de um comando para o input de outro.
+
 ```bash
 cat hello.txt hello2.txt | sort > hello3.txt
 ```
@@ -62,13 +65,13 @@ cat hello.txt hello2.txt | sort > hello3.txt
 | drwxr-xr-x | 2     | root         | root  | 4096    | Out 19 09:10 | composer |
 ```
 
-- Permissões => É possível verificar o tipo do item e nível de permissão para Leitura, Escrita e Execução de item ou diretório;
-- Links => Número de ligações que o item possui, no caso do diretório, número de subdiretórios que possui;
-- Proprietário => Quem é a pessoa dona, quem criou. É o diretório padrão da pessoa usuária, o home;
-- Grupo => Grupo ao qual pertence o item ou diretório. Utilizado para dar permissões à outras pessoas;
-- Tamanho => Em Bytes;
-- Data e Hora => Momento em que foi criado ou última modificação;
-- Nome => Nome do item ou diretório;
+- **Permissões** É possível verificar o tipo do item e nível de permissão para Leitura, Escrita e Execução de item ou diretório;
+- **Links** Número de ligações que o item possui, no caso do diretório, número de subdiretórios que possui;
+- **Proprietário** Quem é a pessoa dona, quem criou. É o diretório padrão da pessoa usuária, o home;
+- **Grupo** Grupo ao qual pertence o item ou diretório. Utilizado para dar permissões à outras pessoas;
+- **Tamanho** Em Bytes;
+- **Data** ora => Momento em que foi criado ou última modificação;
+- **Nome** Nome do item ou diretório;
 
 Tipos de permissões:
 
@@ -77,6 +80,11 @@ w - Write | 2
 x - Execute | 1
 
 As permissões são divididas em 4 grupos:
+
+| Tipo | Dono | Grupo | Outros |
+| ---- | ---- | ----- | ------ |
+| -    | rwx  | rwx   | rwx    |
+| d    | rwx  | rwx   | rwx    |
 
 1. Se começa com - (minus), é um arquivo e se começa com d, é um diretório.
 2. Permissões do usuário.
@@ -96,7 +104,7 @@ r-x = 101 ( 5 | Somente Leitura e Execução )
 
 ## Alterar permissões (chmod)
 
-`chmod <alvo><modo><permissões> <arquivo>
+`chmod <alvo><modo><permissões> <arquivo>`
 
 Alvos:
 
@@ -107,9 +115,9 @@ Alvos:
 
 Modo:
 
-- - = remover
-- - = adicionar
-- = = igual
+- **-** Remover
+- **+** Adicionar
+- **=** Igual
 
 Exemplo:
 
@@ -147,6 +155,8 @@ jobs
 ```
 
 ## Continuar processo suspensos (fg)
+
+Quando um processo é suspenso, ele recebe um identificador que é utilizado para continuar o processo, por exemplo: `%1`.
 
 ```bash
 fg %1
