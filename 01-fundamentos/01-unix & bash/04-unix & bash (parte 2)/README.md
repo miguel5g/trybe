@@ -70,14 +70,14 @@ cat hello.txt hello2.txt | sort > hello3.txt
 - **Proprietário** Quem é a pessoa dona, quem criou. É o diretório padrão da pessoa usuária, o home;
 - **Grupo** Grupo ao qual pertence o item ou diretório. Utilizado para dar permissões à outras pessoas;
 - **Tamanho** Em Bytes;
-- **Data** ora => Momento em que foi criado ou última modificação;
+- **Data e Hora** Momento em que foi criado ou última modificação;
 - **Nome** Nome do item ou diretório;
 
 Tipos de permissões:
 
-r - Read | 4
-w - Write | 2
-x - Execute | 1
+- r - Read | 4
+- w - Write | 2
+- x - Execute | 1
 
 As permissões são divididas em 4 grupos:
 
