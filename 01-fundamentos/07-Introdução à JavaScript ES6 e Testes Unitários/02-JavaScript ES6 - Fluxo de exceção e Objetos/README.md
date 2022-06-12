@@ -1,0 +1,1 @@
+# JavaScript ES6 - Fluxo de exceção e Objetos
