@@ -1,4 +1,4 @@
-# Bloco 3: Introdução à HTML e CSS
+# Bloco 4: Introdução à JavaScript e Lógica de Programação
 
 ## Dias
 
@@ -13,6 +13,6 @@
 - 07 - (Bônus) Projeto - Adivinhe a Cor
 - 07 - (Bônus) Projeto - Carta Misteriosa
 
-| Voltar                                                                                                              | Bloco anterior                                                                                                                                                                                                     | Próximo Bloco                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Módulo 01: Fundamentos do Desenvolvimento Web](https://github.com/miguel5g/trybe/tree/documentacao/01-fundamentos) | [Introdução à JavaScript e Lógica de Programação](https://github.com/miguel5g/trybe/tree/documentacao/01-fundamentos/04-Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o) | [JavaScript: DOM, Eventos e Web Storage](https://github.com/miguel5g/trybe/tree/documentacao/01-fundamentos/05-JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage) |
+| Voltar                                                                                                              | Bloco anterior                                                                                                                    | Próximo Bloco                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Módulo 01: Fundamentos do Desenvolvimento Web](https://github.com/miguel5g/trybe/tree/documentacao/01-fundamentos) | Bloco 3: [Introdução à HTML e CSS](https://github.com/miguel5g/trybe/tree/documentacao/01-fundamentos/03-introducao-a-html-e-css) | [JavaScript: DOM, Eventos e Web Storage](https://github.com/miguel5g/trybe/tree/documentacao/01-fundamentos/05-JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage) |
