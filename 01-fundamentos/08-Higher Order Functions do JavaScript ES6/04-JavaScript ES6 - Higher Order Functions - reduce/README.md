@@ -1,0 +1,1 @@
+# JavaScript ES6 - Higher Order Functions - reduce
