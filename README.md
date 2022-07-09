@@ -76,14 +76,14 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 - [x] 8.5 - [JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais](https://github.com/miguel5g/trybe/tree/main/01-fundamentos/08-Higher%20Order%20Functions%20do%20JavaScript%20ES6/05-JavaScript%20ES6%20-%20spread%20operator%2C%20par%C3%A2metro%20rest%2C%20destructuring%20e%20mais)
 - [x] 8.6 - Projeto - Zoo functions
 
-## Desenvolvimento Front-end
+## [Desenvolvimento Front-end](https://github.com/miguel5g/trybe/tree/main/02-front-end)
 
 ### Bloco 9: JavaScript Assíncrono e Promises
 
-- [ ] 9.1 - Introdução - Front-end
-- [ ] 9.1 - JavaScript Assíncrono e Callbacks
-- [ ] 9.2 - JavaScript Assíncrono - Fetch API e async/await
-- [ ] 9.3 - Jest - Testes Assíncronos
+- [x] 9.1 - Introdução - Front-end
+- [x] 9.1 - [JavaScript Assíncrono e Callbacks](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos/01-JavaScript%20Ass%C3%ADncrono%20e%20Callbacks)
+- [x] 9.2 - [JavaScript Assíncrono - Fetch API e async/await](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos/02-JavaScript%20Ass%C3%ADncrono%20-%20Fetch%20API%20e%20async)
+- [x] 9.3 - [Jest - Testes Assíncronos](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos/03-Jest%20-%20Testes%20Ass%C3%ADncronos)
 - [ ] 9.4 - Projeto - Carrinho de Compras
 
 ### Bloco 10: Introdução à React
