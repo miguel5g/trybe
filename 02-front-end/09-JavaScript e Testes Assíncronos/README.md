@@ -1,4 +1,4 @@
-# Bloco 8: Higher Order Functions do JavaScript ES6
+# Bloco 9: JavaScript e Testes Assíncronos
 
 ## Dias
 

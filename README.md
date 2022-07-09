@@ -78,7 +78,7 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 
 ## [Desenvolvimento Front-end](https://github.com/miguel5g/trybe/tree/main/02-front-end)
 
-### Bloco 9: JavaScript Assíncrono e Promises
+### Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/miguel5g/trybe/tree/main/01-fundamentos/07-Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios) | [Bloco 09: JavaScript e Testes Assíncronos](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos)
 
 - [x] 9.1 - Introdução - Front-end
 - [x] 9.1 - [JavaScript Assíncrono e Callbacks](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos/01-JavaScript%20Ass%C3%ADncrono%20e%20Callbacks)
