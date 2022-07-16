@@ -78,13 +78,13 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 
 ## [Desenvolvimento Front-end](https://github.com/miguel5g/trybe/tree/main/02-front-end)
 
-### Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/miguel5g/trybe/tree/main/01-fundamentos/07-Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios) | [Bloco 09: JavaScript e Testes Assíncronos](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos)
+### Bloco 9: [JavaScript e Testes Assíncronos](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos)
 
 - [x] 9.1 - Introdução - Front-end
 - [x] 9.1 - [JavaScript Assíncrono e Callbacks](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos/01-JavaScript%20Ass%C3%ADncrono%20e%20Callbacks)
 - [x] 9.2 - [JavaScript Assíncrono - Fetch API e async/await](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos/02-JavaScript%20Ass%C3%ADncrono%20-%20Fetch%20API%20e%20async)
 - [x] 9.3 - [Jest - Testes Assíncronos](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos/03-Jest%20-%20Testes%20Ass%C3%ADncronos)
-- [ ] 9.4 - Projeto - Carrinho de Compras
+- [x] 9.4 - Projeto - Carrinho de Compras
 
 ### Bloco 10: Introdução à React
 
