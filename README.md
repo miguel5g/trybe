@@ -4,14 +4,14 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 
 > "O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## [Fundamentos do Desenvolvimento Web](https://github.com/miguel5g/trybe/tree/main/01-fundamentos)
+## [Fundamentos do Desenvolvimento Web](./01-fundamentos/)
 
-### Bloco 1: [Unix & Bash](https://github.com/miguel5g/trybe/tree/main/01-fundamentos/01-unix%20%26%20bash)
+### Bloco 1: [Unix & Bash](./01-fundamentos/01-unix-bash-e-shell-script/)
 
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
 - [x] 1.3 - Introdução - Unix & Shell
-- [x] 1.3 - [Unix & Bash - Parte 1](<https://github.com/miguel5g/trybe/tree/main/01-fundamentos/01-unix%20%26%20bash/03-unix%20%26%20bash%20(parte%201)>)
-- [x] 1.4 - [Unix & Bash - Parte 2](<https://github.com/miguel5g/trybe/tree/main/01-fundamentos/01-unix%20%26%20bash/04-unix%20%26%20bash%20(parte%202)>)
+- [x] 1.3 - [Unix & Bash - Parte 1](./01-fundamentos/01-unix-bash-e-shell-script/03-unix-bash-parte-1/)
+- [x] 1.4 - [Unix & Bash - Parte 2](./01-fundamentos/01-unix-bash-e-shell-script/04-unix-bash-parte-2/)
 
 ### Bloco 2: Git, GitHub e Internet
 
