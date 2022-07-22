@@ -3,7 +3,7 @@
 ## Blocos
 
 - Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos)
-- Bloco 10: Introdução à React
+- Bloco 10: [Introdução à React](https://github.com/miguel5g/trybe/tree/main/02-front-end/10-Introdu%C3%A7%C3%A3o%20%C3%A0%20React)
 - Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - Bloco 12: Ciclo de Vida de Componentes e React Router
 - Bloco 13: Metodologias Ágeis

@@ -86,12 +86,12 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 - [x] 9.3 - [Jest - Testes Assíncronos](https://github.com/miguel5g/trybe/tree/main/02-front-end/09-JavaScript%20e%20Testes%20Ass%C3%ADncronos/03-Jest%20-%20Testes%20Ass%C3%ADncronos)
 - [x] 9.4 - Projeto - Carrinho de Compras
 
-### Bloco 10: Introdução à React
+### Bloco 10: [Introdução à React](https://github.com/miguel5g/trybe/tree/main/02-front-end/10-Introdu%C3%A7%C3%A3o%20%C3%A0%20React)
 
-- [ ] 10.1 - Introdução - React
-- [ ] 10.1 - 'Hello, world!' no React!
-- [ ] 10.2 - Componentes React
-- [ ] 10.3 - Projeto - Sistema Solar
+- [x] 10.1 - Introdução - React
+- [x] 10.1 - ['Hello, world!' no React!](https://github.com/miguel5g/trybe/tree/main/02-front-end/10-Introdu%C3%A7%C3%A3o%20%C3%A0%20React/01-'Hello%2C%20world!'%20no%20React!)
+- [x] 10.2 - [Componentes React](https://github.com/miguel5g/trybe/tree/main/02-front-end/10-Introdu%C3%A7%C3%A3o%20%C3%A0%20React/02-Componentes%20React)
+- [x] 10.3 - Projeto - Sistema Solar
 
 ### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
