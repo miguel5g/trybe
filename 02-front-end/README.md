@@ -4,7 +4,7 @@
 
 - Bloco 9: [JavaScript Assíncrono e Promises](./09-javascript-e-testes-assincronos/)
 - Bloco 10: [Introdução à React](./10-introducao-a-react/)
-- Bloco 11: Componentes com Estado, Eventos e Formulários com React
+- Bloco 11: [Componentes com Estado, Eventos e Formulários com React](./11-componentes-com-estado-eventos-e-formularios-com-react/)
 - Bloco 12: Ciclo de Vida de Componentes e React Router
 - Bloco 13: Metodologias Ágeis
 - Bloco 14: Testes automatizados com React Testing Library

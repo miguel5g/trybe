@@ -93,11 +93,11 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 - [x] 10.2 - [Componentes React](./02-front-end/10-introducao-a-react/02-componentes-react/)
 - [x] 10.3 - Projeto - Sistema Solar
 
-### Bloco 11: Componentes com Estado, Eventos e Formulários com React
+### Bloco 11: [Componentes com Estado, Eventos e Formulários com React](./02-front-end/11-componentes-com-estado-eventos-e-formularios-com-react/)
 
-- [ ] 11.1 - Componentes com estado e eventos
-- [ ] 11.2 - Formulários no React
-- [ ] 11.3 - Projeto - Tryunfo
+- [x] 11.1 - Componentes com estado e eventos
+- [x] 11.2 - Formulários no React
+- [x] 11.3 - Projeto - Tryunfo
 
 ### Bloco 12: Ciclo de Vida de Componentes e React Router
 
