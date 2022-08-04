@@ -99,11 +99,11 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 - [x] 11.2 - Formulários no React
 - [x] 11.3 - Projeto - Tryunfo
 
-### Bloco 12: Ciclo de Vida de Componentes e React Router
+### Bloco 12: [Ciclo de Vida de Componentes e React Router](./02-front-end/12-ciclo-de-vida-de-componentes-e-react-router/)
 
-- [ ] 12.1 - Ciclo de vida de componentes
-- [ ] 12.2 - React Router
-- [ ] 12.3 - Projeto - TrybeTunes
+- [x] 12.1 - [Ciclo de vida de componentes](./02-front-end/12-ciclo-de-vida-de-componentes-e-react-router/01-ciclo-de-vida-de-componentes/)
+- [x] 12.2 - [React Router](./02-front-end/12-ciclo-de-vida-de-componentes-e-react-router/02-react-router/)
+- [x] 12.3 - Projeto - TrybeTunes
 
 ### Bloco 13: Metodologias Ágeis
 
