@@ -105,10 +105,10 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 - [x] 12.2 - [React Router](./02-front-end/12-ciclo-de-vida-de-componentes-e-react-router/02-react-router/)
 - [x] 12.3 - Projeto - TrybeTunes
 
-### Bloco 13: Metodologias Ágeis
+### Bloco 13: [Metodologias Ágeis](./02-front-end/13-metodologias-ageis/)
 
-- [ ] 13.1 - Metodologias Ágeis
-- [ ] 13.2 - Projeto - Frontend Online Store
+- [x] 13.1 - [Metodologias Ágeis](./02-front-end/13-metodologias-ageis/01-metodologias-ageis/)
+- [x] 13.2 - Projeto - Frontend Online Store
 
 ### Bloco 14: Testes automatizados com React Testing Library
 
