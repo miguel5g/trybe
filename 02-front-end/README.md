@@ -6,7 +6,7 @@
 - Bloco 10: [Introdução à React](./10-introducao-a-react/)
 - Bloco 11: [Componentes com Estado, Eventos e Formulários com React](./11-componentes-com-estado-eventos-e-formularios-com-react/)
 - Bloco 12: [Ciclo de Vida de Componentes e React Router](./12-ciclo-de-vida-de-componentes-e-react-router/)
-- Bloco 13: Metodologias Ágeis
+- Bloco 13: [Metodologias Ágeis](./13-metodologias-ageis/)
 - Bloco 14: Testes automatizados com React Testing Library
 - Bloco 15: Gerenciamento de estado com Redux
 - Bloco 16: Projeto Jogo de Trivia
