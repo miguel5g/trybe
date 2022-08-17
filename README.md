@@ -110,12 +110,12 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 - [x] 13.1 - [Metodologias Ágeis](./02-front-end/13-metodologias-ageis/01-metodologias-ageis/)
 - [x] 13.2 - Projeto - Frontend Online Store
 
-### Bloco 14: Testes automatizados com React Testing Library
+### Bloco 14: [Testes automatizados com React Testing Library](./02-front-end/14-testes-automatizados-com-react-testing-library/)
 
-- [ ] 14.1 - RTL - Primeiros passos
-- [ ] 14.2 - RTL - Mocks e Inputs
-- [ ] 14.3 - RTL - Testando React Router
-- [ ] 14.4 - Projeto - Testes em React
+- [x] 14.1 - [RTL - Primeiros passos](./02-front-end/14-testes-automatizados-com-react-testing-library/01-rtl-primeiros-passos/)
+- [x] 14.2 - [RTL - Mocks e Inputs](./02-front-end/14-testes-automatizados-com-react-testing-library/02-rtl-mocks-e-inputs/)
+- [x] 14.3 - [RTL - Testando React Router](./02-front-end/14-testes-automatizados-com-react-testing-library/03-rtl-testando-react-router/)
+- [x] 14.4 - Projeto - Testes em React
 
 ### Bloco 15: Gerenciamento de estado com Redux
 
