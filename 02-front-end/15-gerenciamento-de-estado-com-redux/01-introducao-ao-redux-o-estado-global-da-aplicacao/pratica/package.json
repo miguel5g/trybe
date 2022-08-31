@@ -1,0 +1,13 @@
+{
+  "name": "pratica",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "redux": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.7"
+  }
+}
