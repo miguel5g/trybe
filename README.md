@@ -117,14 +117,14 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 - [x] 14.3 - [RTL - Testando React Router](./02-front-end/14-testes-automatizados-com-react-testing-library/03-rtl-testando-react-router/)
 - [x] 14.4 - Projeto - Testes em React
 
-### Bloco 15: Gerenciamento de estado com Redux
+### Bloco 15: [Gerenciamento de estado com Redux](./02-front-end/15-gerenciamento-de-estado-com-redux/)
 
-- [ ] 15.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 15.2 - Usando o Redux no React
-- [ ] 15.3 - Usando o Redux no React - Prática
-- [ ] 15.4 - Usando o Redux no React - Actions Assíncronas
-- [ ] 15.5 - Testes síncronos com React-Redux
-- [ ] 15.6 - Projeto - Trybe Wallet
+- [x] 15.1 - [Introdução ao Redux - O estado global da aplicação](./02-front-end/15-gerenciamento-de-estado-com-redux/01-introducao-ao-redux-o-estado-global-da-aplicacao/)
+- [x] 15.2 - [Usando o Redux no React](./02-front-end/15-gerenciamento-de-estado-com-redux/02-usando-o-redux-no-react/)
+- [x] 15.3 - [Usando o Redux no React - Prática](./02-front-end/15-gerenciamento-de-estado-com-redux/03-usando-o-redux-no-react-pratica/)
+- [x] 15.4 - [Usando o Redux no React - Actions Assíncronas](./02-front-end/15-gerenciamento-de-estado-com-redux/04-usando-o-redux-no-react-actions-assincronas/)
+- [x] 15.5 - [Testes síncronos com React-Redux](./02-front-end/15-gerenciamento-de-estado-com-redux/05-testes-em-react-redux/)
+- [x] 15.6 - Projeto - Trybe Wallet
 
 ### Bloco 16: Projeto Jogo de Trivia
 
