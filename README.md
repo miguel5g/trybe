@@ -128,7 +128,7 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 
 ### Bloco 16: Projeto Jogo de Trivia
 
-- [ ] 16.1 - Projeto - Jogo de Trivia
+- [x] 16.1 - Projeto - Jogo de Trivia
 
 ### Bloco 17: Context API e React Hooks
 
