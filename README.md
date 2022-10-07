@@ -130,12 +130,12 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 
 - [x] 16.1 - Projeto - Jogo de Trivia
 
-### Bloco 17: Context API e React Hooks
+### Bloco 17: [Context API e React Hooks](./02-front-end/17-context-api-e-react-hooks/)
 
-- [ ] 17.1 - Context API do React
-- [ ] 17.2 - React Hooks - useState e useContext
-- [ ] 17.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [x] 17.1 - [Context API do React](./02-front-end/17-context-api-e-react-hooks/01-context-api-do-react/)
+- [x] 17.2 - [React Hooks - useState e useContext](./02-front-end/17-context-api-e-react-hooks/02-react-hooks-use-state-e-use-context/)
+- [x] 17.3 - [React Hooks - useEffect e Hooks customizados](./02-front-end/17-context-api-e-react-hooks/03-react-hooks-use-effect-e-hooks-customizados/)
+- [x] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ### Bloco 18: Projeto App de Receitas
 
