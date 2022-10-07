@@ -10,7 +10,7 @@
 - Bloco 14: [Testes automatizados com React Testing Library](./14-testes-automatizados-com-react-testing-library/)
 - Bloco 15: [Gerenciamento de estado com Redux](./15-gerenciamento-de-estado-com-redux/)
 - Bloco 16: Projeto Jogo de Trivia
-- Bloco 17: Context API e React Hooks
+- Bloco 17: [Context API e React Hooks](./17-context-api-e-react-hooks/)
 - Bloco 18: Projeto App de Receitas
 
 | Módulo anterior                                                     | Próximo Módulo                      |
