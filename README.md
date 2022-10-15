@@ -139,7 +139,7 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 
 ### Bloco 18: Projeto App de Receitas
 
-- [ ] 18.1 - Projeto - App de Receitas
+- [x] 18.1 - Projeto - App de Receitas
 
 ## Desenvolvimento Back-end
 
