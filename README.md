@@ -141,15 +141,15 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 
 - [x] 18.1 - Projeto - App de Receitas
 
-## Desenvolvimento Back-end
+## [Desenvolvimento Back-end](./03-back-end/)
 
-### Bloco 19: Docker: Utilizando Containers
+### Bloco 19: [Docker: Utilizando Containers](./03-back-end/19-docker-utilizando-containers/)
 
-- [ ] 19.1 - Introdução - Back-end
-- [ ] 19.1 - Utilizando Containers - Docker
-- [ ] 19.2 - Manipulando Imagens no Docker
-- [ ] 19.3 - Orquestrando Containers com Docker Compose
-- [ ] 19.4 - Projeto - Docker Todo-List
+- [x] 19.1 - Introdução - Back-end
+- [x] 19.1 - [Utilizando Containers - Docker](./03-back-end/19-docker-utilizando-containers/01-utilizando-containers-docker/)
+- [x] 19.2 - [Manipulando Imagens no Docker](./03-back-end/19-docker-utilizando-containers/02-manipulando-imagens-no-docker/)
+- [x] 19.3 - [Orquestrando Containers com Docker Compose](./03-back-end/19-docker-utilizando-containers/03-orquestrando-containers-com-docker-compose/)
+- [x] 19.4 - Projeto - Docker Todo-List
 
 ### Bloco 20: Introdução à SQL
 
