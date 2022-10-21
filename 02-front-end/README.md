@@ -13,6 +13,6 @@
 - Bloco 17: [Context API e React Hooks](./17-context-api-e-react-hooks/)
 - Bloco 18: Projeto App de Receitas
 
-| Módulo anterior                                                     | Próximo Módulo                      |
-| ------------------------------------------------------------------- | ----------------------------------- |
-| [Módulo 02: Fundamentos do Desenvolvimento Web](../01-fundamentos/) | Módulo 03: Desenvolvimento Back-end |
+| Módulo anterior                                                     | Próximo Módulo                                         |
+| ------------------------------------------------------------------- | ------------------------------------------------------ |
+| [Módulo 01: Fundamentos do Desenvolvimento Web](../01-fundamentos/) | [Módulo 03: Desenvolvimento Back-end](../03-back-end/) |
