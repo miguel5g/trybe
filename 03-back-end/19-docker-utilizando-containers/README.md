@@ -8,6 +8,6 @@
 - [x] 19.3 - [Orquestrando Containers com Docker Compose](./03-orquestrando-containers-com-docker-compose/)
 - [x] 19.4 - Projeto - Docker Todo-List
 
-| Voltar                                     | Bloco anterior                    | Próximo Bloco              |
-| ------------------------------------------ | --------------------------------- | -------------------------- |
-| [Módulo 03: Desenvolvimento Back-end](../) | Bloco 18: Projeto App de Receitas | Bloco 20: Introdução à SQL |
+| Voltar                                     | Bloco anterior                    | Próximo Bloco                                         |
+| ------------------------------------------ | --------------------------------- | ----------------------------------------------------- |
+| [Módulo 03: Desenvolvimento Back-end](../) | Bloco 18: Projeto App de Receitas | [Bloco 20: Introdução à SQL](../20-introducao-a-sql/) |

@@ -151,14 +151,14 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 - [x] 19.3 - [Orquestrando Containers com Docker Compose](./03-back-end/19-docker-utilizando-containers/03-orquestrando-containers-com-docker-compose/)
 - [x] 19.4 - Projeto - Docker Todo-List
 
-### Bloco 20: Introdução à SQL
+### Bloco 20: [Introdução à SQL](./03-back-end/20-introducao-a-sql/)
 
-- [ ] 20.1 - Introdução - Bancos de dados relacionais
-- [ ] 20.1 - Banco de dados SQL
-- [ ] 20.2 - Encontrando dados em um banco de dados
-- [ ] 20.3 - Filtrando dados de forma específica
-- [ ] 20.4 - Manipulando tabelas
-- [ ] 20.5 - Projeto - All For One
+- [x] 20.1 - Introdução - Bancos de dados relacionais
+- [x] 20.1 - [Banco de dados SQL](./03-back-end/20-introducao-a-sql/01-banco-de-dados-sql/)
+- [x] 20.2 - [Encontrando dados em um banco de dados](./03-back-end/20-introducao-a-sql/02-encontrando-dados-em-um%20banco-de-dados/)
+- [x] 20.3 - [Filtrando dados de forma específica](./03-back-end/20-introducao-a-sql/03-filtrando-dados-de-forma-espec%C3%ADfica/)
+- [x] 20.4 - [Manipulando tabelas](./03-back-end/20-introducao-a-sql/04-manipulando-tabelas/)
+- [x] 20.5 - Projeto - All For One
 
 ### Bloco 21: Funções SQL, JOINs e Normalização
 
