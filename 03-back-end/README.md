@@ -2,8 +2,8 @@
 
 ## Blocos
 
-- Bloco 19: Docker: Utilizando Containers
-- Bloco 20: Introdução à SQL
+- Bloco 19: [Docker: Utilizando Containers](./19-docker-utilizando-containers/)
+- Bloco 20: [Introdução à SQL](./20-introducao-a-sql/)
 - Bloco 21: Funções SQL, JOINs e Normalização
 - Bloco 22: Introdução ao desenvolvimento Web com Node.js
 - Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
