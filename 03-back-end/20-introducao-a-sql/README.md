@@ -9,6 +9,6 @@
 - [x] 20.4 - [Manipulando tabelas](./04-manipulando-tabelas/)
 - [x] 20.5 - Projeto - All For One
 
-| Voltar                                     | Bloco anterior                                                                 | Próximo Bloco                               |
-| ------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------- |
-| [Módulo 03: Desenvolvimento Back-end](../) | [Bloco 19: Docker: Utilizando Containers](../19-docker-utilizando-containers/) | Bloco 21: Funções SQL, JOINs e Normalização |
+| Voltar                                     | Bloco anterior                                                                 | Próximo Bloco                                                                          |
+| ------------------------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| [Módulo 03: Desenvolvimento Back-end](../) | [Bloco 19: Docker: Utilizando Containers](../19-docker-utilizando-containers/) | [Bloco 21: Funções SQL, JOINs e Normalização](../21-funcoes-sql-joins-e-normalizacao/) |

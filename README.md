@@ -160,12 +160,12 @@ Neste repositório você encontrará todas as atividades de hard skills desenvol
 - [x] 20.4 - [Manipulando tabelas](./03-back-end/20-introducao-a-sql/04-manipulando-tabelas/)
 - [x] 20.5 - Projeto - All For One
 
-### Bloco 21: Funções SQL, JOINs e Normalização
+### Bloco 21: [Funções SQL, JOINs e Normalização](./03-back-end/21-funcoes-sql-joins-e-normalizacao/)
 
-- [ ] 21.1 - Funções mais usadas no SQL
-- [ ] 21.2 - Descomplicando JOINs
-- [ ] 21.3 - Transformando ideias em um modelo de banco de dados
-- [ ] 21.4 - Aula ao vivo + Projeto - One For All
+- [x] 21.1 - [Funções mais usadas no SQL](./03-back-end/21-funcoes-sql-joins-e-normalizacao/01-funcoes-mais-usadas-no-sql/)
+- [x] 21.2 - [Descomplicando JOINs](./03-back-end/21-funcoes-sql-joins-e-normalizacao/02-descomplicando-joins/)
+- [x] 21.3 - [Transformando ideias em um modelo de banco de dados](./03-back-end/21-funcoes-sql-joins-e-normalizacao/03-transformando-ideias-em-um-modelo-de-banco-de-dados/)
+- [x] 21.4 - Aula ao vivo + Projeto - One For All
 
 ### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
